@@ -1,0 +1,12 @@
+#navbar-section .navbar .navbar-brand img {
+    width: 50px;
+}
+
+#navbar-section .navbar .navbar-brand span {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#navbar-section .navbar .nav-item .nav-link {
+    font-size: 17px;
+}
